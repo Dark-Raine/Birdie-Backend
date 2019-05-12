@@ -1,0 +1,17 @@
+{
+  "name": "nodejstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "jest": "^24.8.0",
+    "mysql": "^2.17.1"
+  }
+}
